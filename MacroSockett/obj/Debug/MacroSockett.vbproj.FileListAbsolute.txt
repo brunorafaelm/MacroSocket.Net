@@ -1,0 +1,34 @@
+C:\Users\Bruno Rafael\source\repos\MacroSockett\MacroSockett\bin\Debug\MacroSockett.exe.config
+C:\Users\Bruno Rafael\source\repos\MacroSockett\MacroSockett\bin\Debug\MacroSockett.exe
+C:\Users\Bruno Rafael\source\repos\MacroSockett\MacroSockett\bin\Debug\MacroSockett.pdb
+C:\Users\Bruno Rafael\source\repos\MacroSockett\MacroSockett\bin\Debug\MacroSockett.xml
+C:\Users\Bruno Rafael\source\repos\MacroSockett\MacroSockett\obj\Debug\MacroSockett.vbprojAssemblyReference.cache
+C:\Users\Bruno Rafael\source\repos\MacroSockett\MacroSockett\obj\Debug\MacroSockett.Form1.resources
+C:\Users\Bruno Rafael\source\repos\MacroSockett\MacroSockett\obj\Debug\MacroSockett.Resources.resources
+C:\Users\Bruno Rafael\source\repos\MacroSockett\MacroSockett\obj\Debug\MacroSockett.vbproj.GenerateResource.cache
+C:\Users\Bruno Rafael\source\repos\MacroSockett\MacroSockett\obj\Debug\MacroSockett.vbproj.CoreCompileInputs.cache
+C:\Users\Bruno Rafael\source\repos\MacroSockett\MacroSockett\obj\Debug\MacroSockett.exe
+C:\Users\Bruno Rafael\source\repos\MacroSockett\MacroSockett\obj\Debug\MacroSockett.xml
+C:\Users\Bruno Rafael\source\repos\MacroSockett\MacroSockett\obj\Debug\MacroSockett.pdb
+C:\Users\Bruno Rafael\source\repos\MacroSockett\MacroSockett\bin\Debug\WindowsInput.dll
+C:\Users\Bruno Rafael\source\repos\MacroSockett\MacroSockett\bin\Debug\WindowsInput.xml
+C:\Users\Bruno Rafael\source\repos\MacroSockett\MacroSockett\obj\Debug\MacroSockett.vbproj.CopyComplete
+C:\UDESC\TCC\MacroSockett\MacroSockett\obj\Debug\MacroSockett.vbprojAssemblyReference.cache
+C:\UDESC\TCC\MacroSockett\MacroSockett\obj\Debug\MacroSockett.Form1.resources
+C:\UDESC\TCC\MacroSockett\MacroSockett\obj\Debug\MacroSockett.Resources.resources
+C:\UDESC\TCC\MacroSockett\MacroSockett\obj\Debug\MacroSockett.vbproj.GenerateResource.cache
+C:\UDESC\TCC\MacroSockett\MacroSockett\obj\Debug\MacroSockett.vbproj.CoreCompileInputs.cache
+C:\UDESC\TCC\MacroSockett\MacroSockett\obj\Debug\MacroSockett.exe
+C:\UDESC\TCC\MacroSockett\MacroSockett\obj\Debug\MacroSockett.xml
+C:\UDESC\TCC\MacroSockett\MacroSockett\obj\Debug\MacroSockett.pdb
+C:\UDESC\TCC\MacroSockett\MacroSockett\bin\Debug\MacroSockett.exe.config
+C:\UDESC\TCC\MacroSockett\MacroSockett\bin\Debug\MacroSockett.exe
+C:\UDESC\TCC\MacroSockett\MacroSockett\bin\Debug\WindowsInput.dll
+C:\UDESC\TCC\MacroSockett\MacroSockett\bin\Debug\WindowsInput.xml
+C:\UDESC\TCC\MacroSockett\MacroSockett\obj\Debug\MacroSockett.vbproj.CopyComplete
+C:\UDESC\TCC\MacroSockett\MacroSockett\base\MacroSockett.exe.config
+C:\UDESC\TCC\MacroSockett\MacroSockett\base\MacroSockett.exe
+C:\UDESC\TCC\MacroSockett\MacroSockett\base\MacroSockett.pdb
+C:\UDESC\TCC\MacroSockett\MacroSockett\base\MacroSockett.xml
+C:\UDESC\TCC\MacroSockett\MacroSockett\base\WindowsInput.dll
+C:\UDESC\TCC\MacroSockett\MacroSockett\base\WindowsInput.xml
